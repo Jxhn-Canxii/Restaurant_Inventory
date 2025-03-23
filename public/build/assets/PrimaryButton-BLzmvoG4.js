@@ -1,0 +1,1 @@
+import{b as r,c as n,B as o}from"./app-DO9d76PO.js";const s=["type"],c={__name:"PrimaryButton",props:{type:{type:String,default:"submit"}},setup(e){return(t,p)=>(r(),n("button",{type:e.type,class:"rounded-md bg-green-500 px-4 py-2 text-center text-sm text-white hover:bg-green-600"},[o(t.$slots,"default")],8,s))}};export{c as _};
